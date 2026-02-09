@@ -1,0 +1,34 @@
+------------------------------------------------------------
+Query_A - The name of all boats that are used in some trip.
+------------------------------------------------------------
+name
+------------
+Albatross
+Ocean Dream
+Sea Breeze
+(3 rows)
+
+---------------------------------------------------------------
+Query_B - The name of all boats that are not used in any trip.
+---------------------------------------------------------------
+name
+-----------
+Mariposa
+Belle Mer
+(2 rows)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Query_C - The name of all boats registered in 'PRT'(ISO_code) for which at least one responsible for a reservation has a surname ending with 'Santos'.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+name
+-----------
+Albatross
+(1 row)
+
+--------------------------------------------------------------------------------------------------------------
+Query_D - The full name of all skippers without any certificate corresponding to the class of the trip's boat.
+--------------------------------------------------------------------------------------------------------------
+first_name  | surname
+------------+----------
+Peter       |  Brown
+(1 row)
