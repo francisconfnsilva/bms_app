@@ -18,16 +18,16 @@ The development of this system followed a rigorous three-stage process:
 
 The project is organized into two development phases:
 
-* **[`Schema Design/`](./schema)**
+* **[`schema`](./schema)**
     * Contains the SQL source code for creating the schema.
     * Includes data population scripts and complex SQL queries for reporting.
     
-* **[`Web App/`](./web)**
+* **[web`](./web)**
     * **`web/`**: The Python application code and HTML templates for the user interface.
     * **`ICs.sql`**: Integrity Constraints (Triggers) to prevent invalid data states.
     * **`view.sql`**: Database views for analytics.
 
-## Tech Stack
+## Methods
 
 * **Database:** SQL (PostgreSQL)
 * **Backend:** Python
