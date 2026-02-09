@@ -1,7 +1,7 @@
 # Boat Management System ⚓
-
-A full-stack information system designed for maritime fleet management, logistics, and trip scheduling. This project demonstrates the complete lifecycle of a database application, from conceptual modeling to a functional Python/SQL interface.
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](http://web.tecnico.ulisboa.pt/ist1113250/menu.cgi)
+A full-stack information system designed for maritime fleet management, logistics, and trip scheduling. This project demonstrates the complete lifecycle of a database application, from conceptual modeling to a functional Python/SQL interface.
+
 ## Project Overview
 
 The development of this system followed a rigorous three-stage process:
